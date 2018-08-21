@@ -1,0 +1,4 @@
+
+jwt:
+  secret: the-fake-jwt-secret
+
